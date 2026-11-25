@@ -1,0 +1,45 @@
+h1{
+    font-family: "Oswald", Arial, sans-serif;
+    font-size: 16px;
+    font-size: 2em;
+    text-align: center;
+    text-decoration: none;
+}
+.b1{
+    font-family: "Oswald", Arial, sans-serif;
+    font-size: 16px;
+    color: aliceblue;
+}
+.b2{
+    font-family: "Oswald", Arial, sans-serif;
+    font-size: 16px;
+    color: aliceblue;
+}
+.b3{
+    font-family: "Oswald", Arial, sans-serif;
+    font-size: 16px;
+    color: aliceblue;
+}
+.b1{
+    font-width: 400px;
+    background-color: #14264d;
+}
+.b2{
+    font-width: 50%;
+    text-align: center;
+    background-color: #1c4ccc;
+}
+.b3{
+    font-width: 20em;
+    text-align:right ;
+    background-color: #a50044;
+}
+.qalalar.jpg{
+    font-width: 50%;
+}
+.gol.mp4{
+    font-width: 30em;
+}
+.sirena.mp3{
+    font-width: 300px;
+}
